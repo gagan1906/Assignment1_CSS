@@ -1,0 +1,219 @@
+body {
+    font-family: 'Arial', sans-serif; 
+    background-color: #f1f1f1;
+    color: #333;
+ 
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding:0px;
+}
+
+
+#lyrics {
+    margin: 25px;
+    font-family: 'Georgia', serif;
+}
+
+#lyrics p {
+    font-size: 25px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+    #lyrics{
+        margin-top: 100px;
+        margin-bottom: 100px;
+        color: rgba(1,1,1,0.7);
+    }
+         
+    #lyrics ab{
+        font-weight: bold;
+        font-size: 15px;
+    }
+    
+    #lyrics ab:hover{
+        font-size:55px;
+        transition: all 100ms;
+
+    
+    }
+    #lyrics ac{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics ac:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics ad{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics ad:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics ae{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics ae:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics af{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics af:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics ag{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics ag:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics ah{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics ah:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics ai{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics ai:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics aj{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics aj:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics ak{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics ak:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics al{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics al:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics am{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics am:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics an{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics an:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics ao{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics ao:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics ap{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics ap:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics aq{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics aq:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics ar{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics ar:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics as{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics as:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics at{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics at:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics au{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
+    #lyrics au:hover{
+        font-size:15px;
+        transition: all 100ms;
+
+    } #lyrics av{
+        font-weight: bold;
+        font-size: 10px;
+    }
+    
